@@ -1,6 +1,6 @@
 ## Hi, I'm Aj 🚀  
 🧠 Exploring networking, cybersecurity & hands-on labs
-| 🛠️ Building home labs and tinkering with DIY electronics
+| 🛠️ Building home labs Networking and tinkering with DIY electronics Hardwares
 | 📚 Reading books on tech, finance, and personal growth
 | 🌍 Sharing thoughts, projects & progress here on GitHub
 
