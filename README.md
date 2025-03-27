@@ -1,4 +1,4 @@
-## Hi, I'm Aj 🚀  
+## Ajay A 
 🧠 Exploring networking, cybersecurity & hands-on labs
 | 🛠️ Building home labs Networking and tinkering with DIY electronics Hardwares
 | 📚 Reading books on tech, finance, and personal growth
