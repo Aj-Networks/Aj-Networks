@@ -1,5 +1,3 @@
-![Vuln GIF](https://github.com/Aj-Networks/Aj-Networks/raw/main/vul_dui.gif)
-
 ## 🐺 Ajay A
 🧠 Exploring networking, cybersecurity & hands-on labs -
 🛠️ Building home labs Networking and tinkering with DIY electronics Hardwares -
