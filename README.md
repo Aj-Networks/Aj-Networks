@@ -1,3 +1,5 @@
+<img src="https://github.com/Aj-Networks/Aj-Networks/raw/main/vulnerable_background.gif" alt="Vulnerable Background" style="border-radius: 12px;" />
+
 ## 🐺 Ajay A
 🧠 Exploring networking, cybersecurity & hands-on labs -
 🛠️ Building home labs Networking and tinkering with DIY electronics Hardwares -
