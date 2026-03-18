@@ -23,9 +23,9 @@ Hands-on CCNA lab series using real Cisco routers and switches. Covers:
 ### 🛡️ [Protectli FW6E Home Lab — pfSense](https://github.com/Aj-Networks/enterprise-homelab-pfsense-vlan)
 ![Firewall](https://img.shields.io/badge/Firewall-OPNSense-orange?logo=fortinet&logoColor=white)
 Firewall and security project using Protectli Vault FW6E + OPNSense. Highlights:
-- pfSense 2.8.1 on Protectli FW6E (i7, 16GB) — 6 VLANs, router-on-a-stick via 802.1Q trunk
+- pfSense 2.8.1 on Protectli FW6E (i7, 16GB) - 6 VLANs, router-on-a-stick via 802.1Q trunk
 - Dual Mullvad WireGuard tunnels with automatic failover and a 5-layer kill switch
-- Suricata IDS across WAN and three VLANs — alert-only, tuned to protect VPN continuity
+- Suricata IDS across WAN and three VLANs - alert-only, tuned to protect VPN continuity
 - Full enterprise-style documentation: firewall manual, switch manual, and master reference PDF
 
 ## 🚀 Skills & Tools
