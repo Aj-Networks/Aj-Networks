@@ -19,7 +19,7 @@ Hands-on CCNA lab series using real Cisco routers and switches. Covers:
 - VLANs, trunking, and inter-VLAN routing
 - DHCP, static NAT, and ACL configuration
 - SSH access, switch security, and cabling
-> 🔹 Designed to bridge simulation and real-world troubleshooting
+- Designed to bridge simulation and real-world troubleshooting
 
 ### 🛡️ [Protectli FW6E Home Lab - pfSense](https://github.com/Aj-Networks/enterprise-homelab-pfsense-vlan)
 ![Firewall](https://img.shields.io/badge/Firewall-OPNSense-orange?logo=fortinet&logoColor=white)
