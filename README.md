@@ -14,6 +14,7 @@
 
 ### 🧪 [CCNA Home Lab](https://github.com/Aj-Networks/CCNA_Home_Lab)
 ![Cisco](https://img.shields.io/badge/Cisco-Labs-%23049fd9?logo=cisco&logoColor=white)
+
 Hands-on CCNA lab series using real Cisco routers and switches. Covers:
 - VLANs, trunking, and inter-VLAN routing
 - DHCP, static NAT, and ACL configuration
@@ -22,6 +23,7 @@ Hands-on CCNA lab series using real Cisco routers and switches. Covers:
 
 ### 🛡️ [Protectli FW6E Home Lab - pfSense](https://github.com/Aj-Networks/enterprise-homelab-pfsense-vlan)
 ![Firewall](https://img.shields.io/badge/Firewall-OPNSense-orange?logo=fortinet&logoColor=white)
+
 Firewall and security project using Protectli Vault FW6E + OPNSense. Highlights:
 - pfSense 2.8.1 on Protectli FW6E (i7, 16GB) - 6 VLANs, router-on-a-stick via 802.1Q trunk
 - Dual Mullvad WireGuard tunnels with automatic failover and a 5-layer kill switch
