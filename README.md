@@ -31,8 +31,7 @@ Firewall and security project using Protectli Vault FW6E + OPNSense. Highlights:
 - Full enterprise-style documentation: firewall manual, switch manual, and master reference PDF
 
 ## 🚀 Skills & Tools
-- Networking: Cisco CLI, VLANs, ACLs, NAT, DHCP
-- Security: OPNSense, firewall rules, secure configs
+- Networking: Cisco CLI, VLANs, ACLs, NAT, DHCP, 802.1Q trunking, gateway failover groups
+- Security: pfSense, Suricata IDS, WireGuard VPN, firewall rule design, DNS leak prevention, kill switch architecture
 - Scripting: Bash, PowerShell (basic automation)
 - Platforms: Packet Tracer, GNS3, GitHub, Markdown
-
