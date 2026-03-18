@@ -20,7 +20,7 @@ Hands-on CCNA lab series using real Cisco routers and switches. Covers:
 - SSH access, switch security, and cabling
 > 🔹 Designed to bridge simulation and real-world troubleshooting
 
-### 🛡️ [Protectli FW6E Project](https://github.com/users/Aj-Networks/projects/2)
+### 🛡️ [Protectli FW6E Project](https://github.com/Aj-Networks/enterprise-homelab-pfsense-vlan)
 ![Firewall](https://img.shields.io/badge/Firewall-OPNSense-orange?logo=fortinet&logoColor=white)
 Firewall and security project using Protectli Vault FW6E + OPNSense. Highlights:
 - Site-to-site VPN (IPSec), VLAN tagging, OpenVPN access
