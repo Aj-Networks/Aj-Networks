@@ -12,15 +12,6 @@
 
 ## 🚀 Featured Projects
 
-### 🧪 [CCNA Home Lab](https://github.com/Aj-Networks/CCNA_Home_Lab)
-![Cisco](https://img.shields.io/badge/Cisco-Labs-%23049fd9?logo=cisco&logoColor=white)
-
-Hands-on CCNA lab series using real Cisco routers and switches. Covers:
-- VLANs, trunking, and inter-VLAN routing
-- DHCP, static NAT, and ACL configuration
-- SSH access, switch security, and cabling
-- Designed to bridge simulation and real-world troubleshooting
-
 ### 🛡️ [Router-on-a-Stick: pfSense, VLANs, Mullvad, Tailscale](https://github.com/Aj-Networks/Homelab_Router-on-a-Stick)
 ![Firewall](https://img.shields.io/badge/Firewall-OPNSense-orange?logo=fortinet&logoColor=white)
 
@@ -35,3 +26,15 @@ Firewall and security project using Protectli Vault FW6E + OPNSense. Highlights:
 - Security: pfSense, Suricata IDS, WireGuard VPN, firewall rule design, DNS leak prevention, kill switch architecture
 - Scripting: Bash, PowerShell (basic automation)
 - Platforms: Packet Tracer, GNS3, GitHub, Markdown
+
+
+### 🧪 [CCNA Home Lab](https://github.com/Aj-Networks/CCNA_Home_Lab)
+![Cisco](https://img.shields.io/badge/Cisco-Labs-%23049fd9?logo=cisco&logoColor=white)
+
+Hands-on CCNA lab series using real Cisco routers and switches. Covers:
+- VLANs, trunking, and inter-VLAN routing
+- DHCP, static NAT, and ACL configuration
+- SSH access, switch security, and cabling
+- Designed to bridge simulation and real-world troubleshooting
+
+
