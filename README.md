@@ -21,12 +21,6 @@ Firewall and security project using Protectli Vault FW6E + OPNSense. Highlights:
 - Suricata IDS across WAN and three VLANs - alert-only, tuned to protect VPN continuity
 - Full enterprise-style documentation: firewall manual, switch manual, and master reference PDF
 
-## 🚀 Skills & Tools
-- Networking: Cisco CLI, VLANs, ACLs, NAT, DHCP, 802.1Q trunking, gateway failover groups
-- Security: pfSense, Suricata IDS, WireGuard VPN, firewall rule design, DNS leak prevention, kill switch architecture
-- Scripting: Bash, PowerShell (basic automation)
-- Platforms: Packet Tracer, GNS3, GitHub, Markdown
-
 
 ### 🧪 [CCNA Home Lab](https://github.com/Aj-Networks/CCNA_Home_Lab)
 ![Cisco](https://img.shields.io/badge/Cisco-Labs-%23049fd9?logo=cisco&logoColor=white)
@@ -38,3 +32,8 @@ Hands-on CCNA lab series using real Cisco routers and switches. Covers:
 - Designed to bridge simulation and real-world troubleshooting
 
 
+## 🚀 Skills & Tools
+- Networking: Cisco CLI, VLANs, ACLs, NAT, DHCP, 802.1Q trunking, gateway failover groups
+- Security: pfSense, Suricata IDS, WireGuard VPN, firewall rule design, DNS leak prevention, kill switch architecture
+- Scripting: Bash, PowerShell (basic automation)
+- Platforms: Packet Tracer, GNS3, GitHub, Markdown
