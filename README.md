@@ -1,14 +1,14 @@
 ## 🐺 Mr. Aj
-🧠 Exploring networking, cybersecurity & hands-on labs -
-🛠️ Building home labs Networking and tinkering with DIY electronics Hardwares -
-📚 Reading books on tech, finance, and personal growth -
+🧠 Exploring networking, cybersecurity & hands-on labs
+🛠️ Building networking home labs and tinkering with DIY electronics hardware
+📚 Reading books on tech, finance, and personal growth
 🌍 Sharing thoughts 📄, projects & progress here on [GitHub](https://github.com/Aj-Networks)
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Aj_Networks/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ztf4mShpmH) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AjayAngdem) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:infoangdembe@gmail.com)
 
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+## 💻 Tech Stack:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -32,7 +32,7 @@ Hands-on CCNA lab series using real Cisco routers and switches. Covers:
 - Designed to bridge simulation and real-world troubleshooting
 
 
-## 🚀 Skills & Tools
+## 🧰 Skills & Tools
 - Networking: Cisco CLI, VLANs, ACLs, NAT, DHCP, 802.1Q trunking, gateway failover groups
 - Security: pfSense, Suricata IDS, WireGuard VPN, firewall rule design, DNS leak prevention, kill switch architecture
 - Scripting: Bash, PowerShell (basic automation)
