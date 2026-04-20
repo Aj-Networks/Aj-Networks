@@ -20,7 +20,7 @@ Firewall and security project using Protectli Vault FW6E + pfSense. Highlights:
 - Dual Mullvad WireGuard tunnels with automatic failover and a 5-layer kill switch
 - Tailscale remote access with advertised routes across lab VLANs
 - Suricata IDS across WAN and three VLANs - alert-only, tuned to protect VPN continuity
-- Full enterprise-style documentation: firewall manual, switch manual, and master reference PDF
+- Documentation modeled on enterprise style: firewall manual, switch manual, and master reference PDF
 
 
 ### 🧪 [CCNA Home Lab](https://github.com/Aj-Networks/CCNA_Home_Lab)
@@ -33,8 +33,8 @@ Hands-on CCNA lab series using real Cisco routers and switches. Covers:
 - Designed to bridge simulation and real-world troubleshooting
 
 
-## 🧰 Skills & Tools
-- Networking: Cisco CLI, VLANs, ACLs, NAT, DHCP, 802.1Q trunking, gateway failover groups
-- Security: pfSense, Suricata IDS, WireGuard VPN, firewall rule design, DNS leak prevention, kill switch architecture
-- Scripting: Bash, PowerShell (basic automation)
-- Platforms: Packet Tracer, GNS3, GitHub, Markdown
+## 🧰 Currently Exploring
+- Networking: learning Cisco CLI, VLANs, ACLs, NAT, DHCP, 802.1Q trunking, and gateway failover groups
+- Security: hands-on with pfSense, Suricata IDS, WireGuard VPN, firewall rule design, DNS leak prevention, and kill switch architecture
+- Scripting: practicing Bash and PowerShell for small automation tasks
+- Platforms: experimenting with Packet Tracer, GNS3, GitHub, and Markdown
