@@ -13,11 +13,12 @@
 ## 🚀 Featured Projects
 
 ### 🛡️ [Router-on-a-Stick: pfSense, VLANs, Mullvad, Tailscale](https://github.com/Aj-Networks/Homelab_Router-on-a-Stick)
-![Firewall](https://img.shields.io/badge/Firewall-OPNSense-orange?logo=fortinet&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-pfSense-orange?logo=pfsense&logoColor=white)
 
-Firewall and security project using Protectli Vault FW6E + OPNSense. Highlights:
+Firewall and security project using Protectli Vault FW6E + pfSense. Highlights:
 - pfSense 2.8.1 on Protectli FW6E (i7, 16GB) - 6 VLANs, router-on-a-stick via 802.1Q trunk
 - Dual Mullvad WireGuard tunnels with automatic failover and a 5-layer kill switch
+- Tailscale remote access with advertised routes across lab VLANs
 - Suricata IDS across WAN and three VLANs - alert-only, tuned to protect VPN continuity
 - Full enterprise-style documentation: firewall manual, switch manual, and master reference PDF
 
