@@ -2,7 +2,7 @@
 🧠 Exploring networking, cybersecurity & hands-on labs
 🛠️ Building networking home labs and tinkering with DIY electronics hardware
 📚 Reading books on tech, finance, and personal growth
-🌍 Sharing thoughts 📄, projects & progress here on [GitHub](https://github.com/Aj-Networks)
+🌍 Sharing thoughts 📄, projects & progress here on [GitHub]([https://github.com/Aj-Networks](https://github.com/Aj-Networks?tab=repositories)
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Aj_Networks/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ztf4mShpmH) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AjayAngdem) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:infoangdembe@gmail.com)
