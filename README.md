@@ -1,10 +1,10 @@
-<div align="center">
+<img width="1516" height="846" alt="image" src="https://github.com/user-attachments/assets/cc08684d-2425-4c99-bdf8-1f95e0019175" /><div align="center">
 
 # 🐺 Mr. Aj
 
 **Networking · Security · Homelabs**
 
-[![Reddit](https://img.shields.io/badge/-Reddit-%23FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/Aj_Networks/) [![Discord](https://img.shields.io/badge/-Discord-%237289DA?logo=discord&logoColor=white)](https://discord.gg/Ztf4mShpmH) [![X](https://img.shields.io/badge/-X-black?logo=X&logoColor=white)](https://x.com/AjayAngdem) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:infoangdembe@gmail.com)
+[![Reddit](https://img.shields.io/badge/-Reddit-%23FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/Aj_Networks/) [![Discord](https://img.shields.io/badge/-Discord-%237289DA?logo=discord&logoColor=white)](https://discord.gg/Ztf4mShpmH) [![X](https://img.shields.io/badge/-X-black?logo=X&logoColor=white)](https://x.com/AjayAngdem) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:hello@ajayangdembe.com)
 
 ![visitors](https://komarev.com/ghpvc/?username=Aj-Networks&label=visitors&color=0e75b6&style=flat)
 
