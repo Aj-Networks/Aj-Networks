@@ -1,5 +1,3 @@
-<img width="1516" height="846" alt="image" src="https://github.com/user-attachments/assets/cc08684d-2425-4c99-bdf8-1f95e0019175" /><div align="center">
-
 # 🐺 Mr. Aj
 
 **Networking · Security · Homelabs**
